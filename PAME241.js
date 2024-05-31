@@ -34,6 +34,8 @@ class Produto {
        this.preco = preco;
        this.quantidade = quantidade;
     }
+
+    // até o momento só criei as classes e as variáveis, estou pensando uma forma de deixar o sistema otimizado 
       
        
           
